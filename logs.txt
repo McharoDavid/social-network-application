@@ -1,0 +1,38 @@
+INFO : 2020/01/07 14:16:38.810913 client.go:34: Successfully established DB connection
+INFO : 2020/01/07 14:16:43.911328 get_account.go:12: retrieving account from db with filter: 4ee9a3a2-64ab-4e17-94e2-182ee94066c0 
+INFO : 2020/01/07 14:16:43.911400 get_account.go:20: get account details from dbusing query: SELECT * FROM accounts WHERE id='4ee9a3a2-64ab-4e17-94e2-182ee94066c0'
+INFO : 2020/01/07 14:16:44.270000 get_account.go:12: retrieving account from db with filter: 4ee9a3a2-64ab-4e17-94e2-182ee94066c0 
+INFO : 2020/01/07 14:16:44.270115 get_account.go:20: get account details from dbusing query: SELECT * FROM accounts WHERE id='4ee9a3a2-64ab-4e17-94e2-182ee94066c0'
+INFO : 2020/01/07 14:16:44.327393 save_account.go:15: saving 4ee9a3a2-64ab-4e17-94e2-182ee94066c0 account details into db
+INFO : 2020/01/07 14:16:44.427698 update_account.go:131: changes applied for account &{4ee9a3a2-64ab-4e17-94e2-182ee94066c0 David Amin Mcharo davidsinger@gmail.com 507682321 123456 Male ACTIVE 0xc00005e300 }
+INFO : 2020/01/07 14:18:31.005056 get_account.go:12: retrieving account from db with filter: 5da09590-927a-48ae-b5a4-6af76162dac4 
+INFO : 2020/01/07 14:18:31.015889 get_account.go:20: get account details from dbusing query: SELECT * FROM accounts WHERE id='5da09590-927a-48ae-b5a4-6af76162dac4'
+INFO : 2020/01/07 14:18:31.065096 get_account.go:12: retrieving account from db with filter: 5da09590-927a-48ae-b5a4-6af76162dac4 
+INFO : 2020/01/07 14:18:31.065195 get_account.go:20: get account details from dbusing query: SELECT * FROM accounts WHERE id='5da09590-927a-48ae-b5a4-6af76162dac4'
+INFO : 2020/01/07 14:18:31.114563 save_account.go:15: saving 5da09590-927a-48ae-b5a4-6af76162dac4 account details into db
+INFO : 2020/01/07 14:18:31.235647 update_account.go:131: changes applied for account &{5da09590-927a-48ae-b5a4-6af76162dac4 Gladys  Mcharo gladys@gmail.com 820682321 123456 Female ACTIVE 0xc000184100 }
+INFO : 2020/01/07 14:19:12.299698 get_account.go:12: retrieving account from db with filter: 5da09590-927a-48ae-b5a4-6af76162dac4 
+INFO : 2020/01/07 14:19:12.300031 get_account.go:20: get account details from dbusing query: SELECT * FROM accounts WHERE id='5da09590-927a-48ae-b5a4-6af76162dac4'
+INFO : 2020/01/07 14:19:12.563186 get_account.go:12: retrieving account from db with filter: 5da09590-927a-48ae-b5a4-6af76162dac4 
+INFO : 2020/01/07 14:19:12.563297 get_account.go:20: get account details from dbusing query: SELECT * FROM accounts WHERE id='5da09590-927a-48ae-b5a4-6af76162dac4'
+INFO : 2020/01/07 14:19:12.617501 save_account.go:15: saving 5da09590-927a-48ae-b5a4-6af76162dac4 account details into db
+INFO : 2020/01/07 14:19:12.722279 update_account.go:131: changes applied for account &{5da09590-927a-48ae-b5a4-6af76162dac4 Gladys Elizabeth Mcharo gladys@gmail.com 820682321 123456 Female ACTIVE 0xc000184200 }
+INFO : 2020/01/07 14:28:08.098558 get_account.go:12: retrieving account from db with filter: 140e2dab-e41f-41a2-95aa-7fe52789f433 
+INFO : 2020/01/07 14:28:08.099259 get_account.go:20: get account details from dbusing query: SELECT * FROM accounts WHERE id='140e2dab-e41f-41a2-95aa-7fe52789f433'
+INFO : 2020/01/07 14:28:08.341361 get_account.go:12: retrieving account from db with filter: 140e2dab-e41f-41a2-95aa-7fe52789f433 
+INFO : 2020/01/07 14:28:08.341435 get_account.go:20: get account details from dbusing query: SELECT * FROM accounts WHERE id='140e2dab-e41f-41a2-95aa-7fe52789f433'
+INFO : 2020/01/07 14:28:08.632432 save_account.go:15: saving 140e2dab-e41f-41a2-95aa-7fe52789f433 account details into db
+INFO : 2020/01/07 14:28:22.387961 get_account.go:12: retrieving account from db with filter:  
+INFO : 2020/01/07 14:28:22.388575 get_account.go:20: get account details from dbusing query: SELECT * FROM accounts
+INFO : 2020/01/07 14:29:53.220635 get_account.go:12: retrieving account from db with filter: 140e2dab-e41f-41a2-95aa-7fe52789f433 
+INFO : 2020/01/07 14:29:53.221408 get_account.go:20: get account details from dbusing query: SELECT * FROM accounts WHERE id='140e2dab-e41f-41a2-95aa-7fe52789f433'
+INFO : 2020/01/07 14:29:53.267179 get_account.go:12: retrieving account from db with filter: 140e2dab-e41f-41a2-95aa-7fe52789f433 
+INFO : 2020/01/07 14:29:53.267280 get_account.go:20: get account details from dbusing query: SELECT * FROM accounts WHERE id='140e2dab-e41f-41a2-95aa-7fe52789f433'
+INFO : 2020/01/07 14:29:53.322301 save_account.go:15: saving 140e2dab-e41f-41a2-95aa-7fe52789f433 account details into db
+INFO : 2020/01/07 14:29:53.421367 update_account.go:131: changes applied for account &{140e2dab-e41f-41a2-95aa-7fe52789f433 Nathan Amin Mcharo nathan@gmail.com 507682321 123456 Male ACTIVE 0xc0001844c0 }
+INFO : 2020/01/07 14:32:46.382222 get_account.go:12: retrieving account from db with filter:  gladys@gmail.com
+INFO : 2020/01/07 14:32:46.382779 get_account.go:20: get account details from dbusing query: SELECT * FROM accounts WHERE email='gladys@gmail.com'
+INFO : 2020/01/07 14:32:54.589819 get_account.go:12: retrieving account from db with filter:  gladys3@gmail.com
+INFO : 2020/01/07 14:32:54.590182 get_account.go:20: get account details from dbusing query: SELECT * FROM accounts WHERE email='gladys3@gmail.com'
+INFO : 2020/01/07 14:33:05.024425 get_account.go:12: retrieving account from db with filter:  gladys@gmail.com
+INFO : 2020/01/07 14:33:05.024736 get_account.go:20: get account details from dbusing query: SELECT * FROM accounts WHERE email='gladys@gmail.com'
