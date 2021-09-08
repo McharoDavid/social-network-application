@@ -8,7 +8,7 @@ const (
 	DBUserName = "postgres"
 
 	//DBPassword is the password of postgres DB
-	DBPassword = "David626693"
+	DBPassword = "??v??6?6???"
 
 	//DBName is the name of postgres DB
 	DBName = "postgres"
